@@ -1,0 +1,17 @@
+
+body
+{
+    	    background: url('fond_jaune.png');
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: #181818;
+}
+
+.colonne
+{
+	flex-direction: column;
+}
+
+.gauche
+{
+	text-align: left;
+}
