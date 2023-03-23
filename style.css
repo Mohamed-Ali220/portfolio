@@ -1,0 +1,460 @@
+html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    font-family: monospace;
+    background-color: black;
+
+}
+
+body{
+	width: 100%;
+	height: 100%;
+	text-decoration: none;
+    list-style: none;
+}
+
+.slide1{
+	width: 100%;
+	height: 100%;
+	background-image: url(image1.webp);
+	
+}
+.navbar {
+
+	padding:25px;
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	box-sizing: border-box;
+	align-items: center;
+	z-index: 25;
+	background-color: black;
+}
+
+.navbar a {
+	color: orange;
+}
+a:hover {
+  box-shadow: 10px 5px 5px red;
+
+}
+
+.navbar .logo {
+	font-size: 2em;
+	font-weight: bold;
+
+}
+
+.navbar .nav-links {
+	display: flex;
+
+
+
+	
+}
+
+.navbar .nav-links ul{
+	display: flex;
+	
+
+}
+
+
+.navbar .nav-links ul li{
+	margin: 25px;
+}
+
+.presentation{
+	text-align: center;
+
+}
+.photo{
+	height: 250px;
+	border: 3px solid red;
+	border-radius: 100px;
+	font-weight: 50px;
+}
+.photo p{
+	box-sizing: border-box;
+color: white;
+text-align: center;		
+}
+
+.titre-presentation h1{
+	font-family: monospace;
+	font-size: 35px;
+	color: white;
+}
+.titre-presentation p{
+	font-size: 20px;
+	color: white;
+}
+
+.bouton1{
+	position: absolute;
+	left: 600px;
+	background-color: orange;
+	border: 2px solid orange;
+	border-radius: 50px;
+
+
+
+
+}
+
+.bouton1 p{
+	color: white;
+	margin: 25px;
+
+}
+.slide2{
+	width:100%;
+	height: 100%;
+	background-color: #333;
+}
+.apropos{
+	display: flex;
+	text-align: left;
+	padding-top: 100px;
+	padding-left: 350px;
+	padding-right: 350px;
+	line-height: 30px;
+
+}
+
+.apropos h1{
+	font-family: monospace;
+	font-size: 35px;
+	color: white;
+	margin: 0;
+	padding-top: 75px;
+	font-weight: bold;
+}
+.apropos h2{
+	font-family: monospace;
+	font-size: 25px;
+	color: white;
+}
+.apropos p{
+	font-size: 20px;
+	color: white;
+}
+
+.coordonne{
+	font-size: 20px;
+	
+	padding-top: 70px;
+	padding-left: 20px;
+	color: white;
+
+}
+
+.coordonne  span{
+	padding-right: 30px;
+	color:  orange;
+	font-weight: bold;
+	font-family: monospace;
+}
+
+.coordonne li {
+	padding: 8px;
+	list-style: none;
+}
+
+.monCV{
+	border: 3px solid orange;
+	height:50px;
+	width: 150px;
+	background-color: orange;
+	border-radius: 50px;
+
+}
+
+.monCV a{
+	color: white;
+	text-align:center;
+	margin: 25px;
+}
+
+.skill{
+	box-sizing: border-box;
+	display: flex;
+	width:100%;
+	height: 400px;
+	
+	justify-content: space-between;
+	padding-top: 50px;
+	padding-left: 350px;
+	padding-right: 350px;
+
+}
+
+.skillReseau h2{
+	text-decoration: underline ;
+
+	font-weight: 30px;
+	color:orange;
+
+}
+
+.skillProg h2{
+	font-weight: 30px;
+	color:orange;
+
+}
+.skill1{
+	border: 2px solid black;
+	width: 550px;
+	height: 9px;
+	border-radius: 30px;
+	background-color: white;
+
+}
+
+.progression1{
+
+	width:40%;
+	height:100%;
+	background-color: orange;
+	border-radius: 30px;
+
+}
+
+.skill2{
+	border: 2px solid black;
+	width: 550px;
+	height: 9px;
+	border-radius: 30px;
+	background-color: white;
+
+}
+
+.progression2{
+
+	width:75%;
+	height:100%;
+	background-color: orange;
+	border-radius: 30px;
+
+}
+
+.skill3{
+	border: 2px solid black;
+	width: 550px;
+	height: 9px;
+	border-radius: 30px;
+	background-color: white;
+
+}
+
+.progression3{
+
+	width:80%;
+	height:100%;
+	background-color: orange;
+	border-radius: 30px;
+
+}
+
+.skill4{
+	border: 2px solid black;
+	width: 550px;
+	height: 9px;
+	border-radius: 30px;
+	background-color: white;
+
+}
+
+.progression4{
+
+	width:80%;
+	height:100%;
+	background-color: orange;
+	border-radius: 30px;
+
+}
+
+.skill5{
+	border: 2px solid black;
+	width: 550px;
+	height: 9px;
+	border-radius: 30px;
+	background-color: white;
+
+}
+
+.progression5{
+
+	width:40%;
+	height:100%;
+	background-color: orange;
+	border-radius: 30px;
+
+}
+
+.skill6{
+	border: 2px solid black;
+	width: 550px;
+	height: 9px;
+	border-radius: 30px;
+	background-color: white;
+
+}
+
+.progression6{
+
+	width:30%;
+	height:100%;
+	background-color: orange;
+	border-radius: 30px;
+
+}
+
+.skillReseau h3{
+	color: white;
+	font-family: monospace;
+	font-size: 20px;
+}
+
+.skillProg h3{
+	color: white;
+	font-family: monospace;
+	font-size: 20px;
+}
+
+.slide3{
+	width: 100%;
+	height:550px;
+	background-color: black;
+}
+.slide3 h2{
+	color: white;
+	margin: 0;
+	align-items: center;
+	font-size: 50px;
+	padding-top: 50px;
+	padding-left: 350px;
+	padding-right: 350px;
+}
+.slide3 h3{
+	color: white;
+	font-size: 24px;
+	font-weight: bolder;
+
+}
+
+.quotidien{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 50px;
+	padding-left: 350px;
+	padding-right: 330px;
+}
+
+.quotidien p{
+	color: white;
+	font-size: 18px;
+}
+
+.hobby3{
+	padding-left: 45px;
+
+}
+
+.hobby3 p{
+	width: 300px;
+}
+.hobby2{
+	padding-left: 45px;
+}
+
+.hobby2 p{
+	width: 300px;
+}
+.hobby1{
+	}
+
+.slide4{
+	width:100%;
+	height: 600px;
+	background-color: #333;
+}
+
+.parcour h2{
+	color: white;
+  margin: 0;
+  align-items: center;
+  font-size: 50px;
+	padding-top: 50px;
+  padding-left: 30%;
+  
+}
+
+.parcour h3{
+	color: white;
+  font-size: 24px;
+  font-weight: bolder;
+  padding-left: 30%;
+}
+.parcour h4{
+	color: white;
+  font-size: 18px;
+  font-weight: bolder;
+  padding-left:30%;
+  margin-bottom: 10px;
+}
+.formation1 span{
+	color: orange;
+	padding-left: 200px;
+	color:  orange;
+	font-weight: bold;
+	font-family: monospace;
+
+
+}
+
+.formation1 p{
+	color: white;
+	font-size: 16px;
+	padding-left: 30%;
+	padding-top: 0px;
+}
+
+.ligne{
+	border: 1px solid orange;
+	width: 620px;
+	
+	margin-left: 30%;
+}
+
+.slide5{
+	width: 100%;
+	height:100%;
+	background-color: black;
+}
+
+.projet h2{
+	color: white;
+  margin: 0;
+  align-items: center;
+  font-size: 50px;
+	padding-top: 50px;
+  padding-left: 350px;
+}
+.travaux{
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	padding-top: 50px;
+	padding-left: 230px;
+	padding-right: 300px;
+	
+}
+.travaux img{
+	padding: 25px;
+	width: 400px;
+	height: 400px;
+}
