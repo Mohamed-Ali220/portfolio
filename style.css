@@ -462,3 +462,13 @@ text-align: center;
 	width: 400px;
 	height: 400px;
 }
+
+.slide6{
+	width: 100%;
+	height: 150px;
+	background-color: white;
+}
+
+.slide6 p{
+color: black;
+}
