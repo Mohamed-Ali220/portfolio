@@ -375,28 +375,28 @@ text-align: center;
 }
 
 .coordonne li {
-	padding: 8px;
+	padding: 0.5em;
 	list-style: none;
 
 }
 .spe{
-	width: 430px;
+	width: 26.875em;
 }
 
 .monCV{
 	border: 3px solid orange;
-	height:40px;
-	width: 150px;
+	height:2.5em;
+	width: 9.375em;
 	align-items: center;
 	background-color: orange;
-	border-radius: 50px;
+	border-radius: 3.125em;
 
 }
 
 .monCV a{
 	color: white;
 	text-align:center;
-	margin: 25px;
+	margin:  1.5625em;
 	padding-top: 50%;
 }
 
@@ -404,13 +404,12 @@ text-align: center;
 	box-sizing: border-box;
 	display: flex;
 	width:100%;
-	height: 400px;
+	height: 25em;
 	
 	justify-content: space-between;
-	padding-top: 50px;
-	padding-left: 350px;
-	padding-right: 350px;
-
+	padding-top: 6.25em;
+	padding-left: 22.8em;
+	padding-right: 22.8em;
 }
 
 .skillReseau h2{
