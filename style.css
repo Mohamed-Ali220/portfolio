@@ -529,25 +529,25 @@ text-align: center;
 	width:30%;
 	height:100%;
 	background-color: orange;
-	border-radius: 30px;
+	border-radius: 1.875em;
 
 }
 
 .skillReseau h3{
 	color: white;
 	font-family: monospace;
-	font-size: 20px;
+	font-size: 1.25em;
 }
 
 .skillProg h3{
 	color: white;
 	font-family: monospace;
-	font-size: 20px;
+	font-size: 1.25em;
 }
 
 .slide3{
 	width: 100%;
-	height:550px;
+	height:34.375em;
 	background-color: black;
 }
 .slide3 h2{
@@ -555,13 +555,13 @@ text-align: center;
 	margin: 0;
 	align-items: center;
 	font-size: 50px;
-	padding-top: 50px;
-	padding-left: 350px;
-	padding-right: 350px;
+  padding-top: 6.25em;
+	padding-left: 22.8em;
+	padding-right: 22.8em;
 }
 .slide3 h3{
 	color: white;
-	font-size: 24px;
+	font-size: ;
 	font-weight: bolder;
 
 }
@@ -570,32 +570,34 @@ text-align: center;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding-top: 50px;
-	padding-left: 350px;
-	padding-right: 330px;
+ padding-top: 6.25em;
+	padding-left: 22.8em;
+	padding-right: 22.8em;
 }
 
 .quotidien p{
 	color: white;
-	font-size: 18px;
+	font-size: 1.125em;
 }
 
 .hobby3{
-	padding-left: 45px;
+	padding-left: 2.8125em;
 
 }
 
 .hobby3 p{
-	width: 300px;
+	width: 18.75em;
 }
 .hobby2{
-	padding-left: 45px;
+	padding-left: 2.8125em;
 }
 
 .hobby2 p{
-	width: 300px;
+	width: 18.75em;
 }
 .hobby1{
+		padding-left: 2.8125em;
+
 	}
 
 .slide4{
