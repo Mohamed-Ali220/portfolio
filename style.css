@@ -415,21 +415,21 @@ text-align: center;
 .skillReseau h2{
 	text-decoration: underline ;
 
-	font-weight: 30px;
+	font-weight: 1.875em;
 	color:orange;
 
 }
 
 .skillProg h2{
-	font-weight: 30px;
+	font-weight: 1.875em;
 	color:orange;
 
 }
 .skill1{
-	border: 2px solid black;
-	width: 550px;
-	height: 9px;
-	border-radius: 30px;
+	border: 0.125em solid black;
+  width: 45.375em;
+	height: 0.5625em;
+	border-radius: 1.875em;
 	background-color: white;
 
 }
@@ -439,15 +439,15 @@ text-align: center;
 	width:40%;
 	height:100%;
 	background-color: orange;
-	border-radius: 30px;
+	border-radius: 1.875em;
 
 }
 
 .skill2{
-	border: 2px solid black;
-	width: 550px;
-	height: 9px;
-	border-radius: 30px;
+	border: 0.125em solid black;
+  width: 45.375em;
+	height: 0.5625em;
+	border-radius: 1.875em;
 	background-color: white;
 
 }
@@ -457,15 +457,15 @@ text-align: center;
 	width:75%;
 	height:100%;
 	background-color: orange;
-	border-radius: 30px;
+	border-radius: 1.875em;
 
 }
 
 .skill3{
-	border: 2px solid black;
-	width: 550px;
-	height: 9px;
-	border-radius: 30px;
+	border: 0.125em solid black;
+	width: 45.375em;
+	height: 0.5625em;
+	border-radius: 1.875em;
 	background-color: white;
 
 }
@@ -475,15 +475,15 @@ text-align: center;
 	width:80%;
 	height:100%;
 	background-color: orange;
-	border-radius: 30px;
+	border-radius: 1.875em;
 
 }
 
 .skill4{
-	border: 2px solid black;
-	width: 550px;
-	height: 9px;
-	border-radius: 30px;
+	border: 0.125em solid black;
+  width: 45.375em;
+	height: 0.5625em;
+	border-radius: 1.875em;
 	background-color: white;
 
 }
@@ -493,15 +493,15 @@ text-align: center;
 	width:80%;
 	height:100%;
 	background-color: orange;
-	border-radius: 30px;
+	border-radius: 1.875em;
 
 }
 
 .skill5{
-	border: 2px solid black;
-	width: 550px;
-	height: 9px;
-	border-radius: 30px;
+	border: 0.125em solid black;
+  width: 45.375em;
+	height: 0.5625em;
+	border-radius: 1.875em;
 	background-color: white;
 
 }
@@ -511,15 +511,15 @@ text-align: center;
 	width:40%;
 	height:100%;
 	background-color: orange;
-	border-radius: 30px;
+	border-radius: 1.875em;
 
 }
 
 .skill6{
-	border: 2px solid black;
-	width: 550px;
-	height: 9px;
-	border-radius: 30px;
+	border: 0.125em solid black;
+  width: 45.375em;
+	height: 0.5625em;
+	border-radius: 1.875em;
 	background-color: white;
 
 }
