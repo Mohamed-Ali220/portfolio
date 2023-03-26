@@ -932,3 +932,286 @@ padding: 0px;
 }
 	
 	}
+
+@media all and (max-width: 480px){
+
+
+	.navbar {
+    position: fixed;
+	padding:0.5%;
+	padding-left: 0%;
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	box-sizing: border-box;
+	align-items: center;
+	z-index: 25;
+    }
+    .photo{
+	height: 10em;
+	width: 10em;
+	margin-left: 30%;
+	border: 3px solid red;
+	border-radius: 100px;
+	font-weight: 50px;
+}
+.photo p{
+	box-sizing: border-box;
+		color: white;
+		text-align: center;		
+		}
+
+.titre-presentation h1{
+	font-family: monospace;
+	font-size: 2.5em;
+	color: white;
+}
+.titre-presentation p{
+	padding-left: 2%;
+	padding-right: 2%;
+
+	width:35em;
+	font-size: 0.9em;
+	color: white;
+}
+
+.bouton1{
+	position: absolute;
+	left: 600px;
+	background-color: orange;
+	border: 2px solid orange;
+	border-radius: 50px;
+
+
+
+
+}
+
+.bouton1 p{
+	color: white;
+	margin: 25px;
+
+}
+	.slide2{
+	padding: 0;
+	margin: 0;
+	width:100%;
+	height: 120%;
+	background-color: #333;
+
+}
+	.apropos{
+
+		display: flex;
+		text-align: left;
+		padding-top: 10vh;
+		padding-left: 1%;
+		padding-right: 1%;
+		line-height: 1.8em;
+
+
+	}
+	 
+	.apropos h1{
+		text-align: center;
+		width: 20em;
+		font-family: monospace;
+		font-size: 2.0em;
+		color: white;
+		margin: 0;
+		font-weight: bold;
+	}
+
+	 .apropos h2{
+	 	text-align: center;
+	 	width: 23em;
+		font-family: monospace;
+		font-size: 1.5em;
+		color: white;
+	}
+	 .apropos p{
+	 	padding-left: 9%;
+		padding-right: 9%;
+	 	text-align: center;
+	 	width: 23em;
+		font-size: 1.2em;
+		color: white;	
+
+}
+	.monCV{
+	border: 1em solid orange;
+	height:2.0em;
+	width: 11em;
+	align-items: center;
+	background-color: orange;
+	border-radius: 3.125em;
+	margin-left: 10em;
+
+
+}
+
+.monCV a{
+	color: white;
+	text-align:center;
+	margin:  1.5625em;
+	padding-top: 50%;
+}
+.coordonne{
+	font-size: 1.2em;
+	justify-content:space-between ;
+	padding-right: 4%;
+	
+	}
+	.skill{
+	box-sizing: border-box;
+	flex-direction: column	;
+	width:100%;
+	height: 25em;
+	justify-content: space-between;
+	padding-top: 6.25em;
+	padding-left: 4%;
+	padding-right: 12%
+}
+	.skillProg{
+		padding-top: 4%;
+		padding-left: 0;
+	}
+.skill1{
+	border: 0.125em solid black;
+  width: 35.375em;
+	height: 0.5625em;
+	border-radius: 1.875em;
+	background-color: white;
+
+}
+.skill2{
+	border: 0.125em solid black;
+  width: 35.375em;
+	height: 0.5625em;
+	border-radius: 1.875em;
+	background-color: white;
+
+}
+.skill3{
+	border: 0.125em solid black;
+  width: 35.375em;
+	height: 0.5625em;
+	border-radius: 1.875em;
+	background-color: white;
+
+}
+.skill4{
+	border: 0.125em solid black;
+  width: 35.375em;
+	height: 0.5625em;
+	border-radius: 1.875em;
+	background-color: white;
+
+}
+.skill5{
+	border: 0.125em solid black;
+  width: 35.375em;
+	height: 0.5625em;
+	border-radius: 1.875em;
+	background-color: white;
+
+}
+
+.skill6{
+	border: 0.125em solid black;
+  width: 35.375em;
+	height: 0.5625em;
+	border-radius: 1.875em;
+	background-color: white;
+
+}
+		.slide3{
+			width: 100%;
+			height: 120%;
+		}
+.quotidien{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+ 	padding-top: 10vh;
+		padding-left: 4%;
+		padding-right: 4%;
+		line-height: 1.8em;
+}
+
+.slide3 h2{
+		width: 100%;
+
+	color: white;
+	margin: 0;
+	align-items: center;
+	font-size: 3.4em;
+	padding-top: 4%;
+	padding-left: 12%;
+
+}
+.slide3 h3{
+	color: white;
+	font-size:1.9em ;
+	font-weight: bolder;
+
+}
+
+.quotidien p{
+	color: white;
+	font-size: 1.125em;
+	padding-bottom: 8%;
+}
+
+.hobby3{
+	padding-left: 4%;
+
+}
+
+.hobby3 p{
+	width: 19.75em;
+}
+.hobby2{
+	padding-left: 4%;
+}
+
+.hobby2 p{
+	width: 20.75em;
+}
+.hobby1{
+		padding-left: 0.5%;
+
+	}
+	.hobby1 p{
+		width: 19.75em;
+
+	}
+	.projet h2{
+	 color: white;
+ 	 margin: 0;
+     align-items: center;
+   	 font-size: 50px;
+	 padding-top: 4%;
+     padding-left: 4%;
+}
+
+.travaux{
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	padding-top: 6em;
+	padding-left: 4%;
+	padding-right: 12%;
+	
+}
+.travaux img{
+	padding-right: 10%;	
+	width: 25em;
+	height: 25em;
+}
+	
+	}
+
+
+}
