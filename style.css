@@ -902,5 +902,28 @@ padding: 0px;
 		width: 34.75em;
 
 	}
+	.projet h2{
+	 color: white;
+ 	 margin: 0;
+     align-items: center;
+   	 font-size: 50px;
+	 padding-top: 4%;
+     padding-left: 4%;
+}
+
+.travaux{
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	padding-top: 6em;
+	padding-left: 4%;
+	padding-right: 4%;
+	
+}
+.travaux img{
+	padding: 25px;
+	width: 29em;
+	height: 29em;
+}
 	
 	}
