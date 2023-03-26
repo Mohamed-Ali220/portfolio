@@ -869,7 +869,7 @@ padding: 0px;
 }
 .slide3 h3{
 	color: white;
-	font-size: ;
+	font-size:1.9em ;
 	font-weight: bolder;
 
 }
@@ -917,13 +917,13 @@ padding: 0px;
 	align-items: center;
 	padding-top: 6em;
 	padding-left: 4%;
-	padding-right: 4%;
+	padding-right: 12%;
 	
 }
 .travaux img{
-	padding: 25px;
-	width: 29em;
-	height: 29em;
+	padding-right: 10%;	
+	width: 25em;
+	height: 25em;
 }
 	
 	}
