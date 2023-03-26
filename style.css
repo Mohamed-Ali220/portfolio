@@ -861,6 +861,8 @@ padding: 0px;
 	background-color: black;
 }
 .slide3 h2{
+		width: 100%;
+
 	color: white;
 	margin: 0;
 	align-items: center;
@@ -868,7 +870,6 @@ padding: 0px;
 	padding-top: 4%;
 	padding-left: 12%;
 
-	padding-right: 22.8em;
 }
 .slide3 h3{
 	color: white;
@@ -880,6 +881,7 @@ padding: 0px;
 .quotidien p{
 	color: white;
 	font-size: 1.125em;
+	padding-bottom: 8%;
 }
 
 .hobby3{
