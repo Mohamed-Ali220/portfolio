@@ -393,9 +393,9 @@ text-align: center;
 }
 
 .monCV{
-	border: 3px solid orange;
-	height:2.5em;
-	width: 9.375em;
+	border: 1em solid orange;
+	height:2.0em;
+	width: 11em;
 	align-items: center;
 	background-color: orange;
 	border-radius: 3.125em;
@@ -843,5 +843,59 @@ padding: 0px;
 	background-color: white;
 
 }
+.quotidien{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+ 	padding-top: 10vh;
+		padding-left: 4%;
+		padding-right: 4%;
+		line-height: 1.8em;
+}
+.slide3 h2{
+	color: white;
+	margin: 0;
+	align-items: center;
+	font-size: 2.18em;
+	padding-top: 6.25em;
+	padding-left: 4%;
+
+	padding-right: 22.8em;
+}
+.slide3 h3{
+	color: white;
+	font-size: ;
+	font-weight: bolder;
+
+}
+
+.quotidien p{
+	color: white;
+	font-size: 1.125em;
+}
+
+.hobby3{
+	padding-left: 4%;
+
+}
+
+.hobby3 p{
+	width: 19.75em;
+}
+.hobby2{
+	padding-left: 4%;
+}
+
+.hobby2 p{
+	width: 20.75em;
+}
+.hobby1{
+		padding-left: 0.5%;
+
+	}
+	.hobby1 p{
+		width: 34.75em;
+
+	}
 	
 	}
