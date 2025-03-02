@@ -1,0 +1,46 @@
+enlever diagramme compétences (3/3
+
+changer police partie ce que je fais
+ajouter dans ce que je fais  la partie compétences réseau et languages de programmations (mettre logo) (3/3)
+
+enlever instagram
+
+Onglet parcours mettre diagramme verticale (2/3°
+
+Ajouter onglet experience professionnel:
+parler de l'entreprise
+mettre les projets réalisé
+
+
+
+***************************************************************************
+css temporaire:
+slide 4 heigth:auto
+
+
+
+
+
+
+
+
+
+
+
+
+
+travaux: 
+mettre nom sur chaque logo (3/3)
+enlever dans a propos date de de naissance et age puis l'incorporer dans le texte de presentation. (3/3)
+faire une slide dédié au sport (mettres des images street et art martiaux) et paragraphe.(?/3)
+mettre effet hoover sur chaque projet (titre) et bref description. (2
+
+paragraphe  projet entreprise mettre police plus gros (2/3)
+
+CV mettre du bleu à la place du verre
+
+
+query 1224px
+
+idee responsivité
+	justify-content: center; /* Centrer horizontalement */
